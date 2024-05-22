@@ -1,2 +1,7 @@
 # parzenpy
-A package that can be used to apply Parzen smoothing to a Fourier Amplitude Spectrum.
+
+A python library that perform Parzen spectral smoothing using numpy vectorized operations very efficiently.
+
+#background
+
+
