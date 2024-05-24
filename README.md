@@ -24,5 +24,5 @@ smooth_fas = parzenpy.apply_smooth(freq, fft, fc, b=1.5, windowed_flag=True)`
 
 # Citation
 
->Francisco-Javier Ornelas. (2024). fjornelas/parzenpy: latest(concept). Zenodo. (https://zenodo.org/records/11273315)
+>Ornelas,F.J.. (2024). fjornelas/parzenpy: parzenpy (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.11273315
 
