@@ -4,11 +4,11 @@ A python library that perform Parzen spectral smoothing using numpy vectorized o
 
 # Background
 
-A Parzen window also known as a Kernel Density Estimation function which was developed by Emanuel Parzen. See reference:
+A Parzen window also known as a Kernel Density Estimation function which was developed by Emanuel Parzen (see reference)
 
 > E. Parzen, “Mathematical Considerations in the Estimation of Spectra”, Technometrics, Vol. 3, No. 2 (May, 1961), pp. 167-    190.
 
-It is a non-parametric estimation method that can apply smoothing by fitting a 4-th order spline window to frequency spectra. In this case we apply the function to smooth Fourier Amptlitude Spectra (FAS). Example of this can be found in the test folder of this repository.
+is a non-parametric estimation method that can apply smoothing by fitting a 4th order spline window to frequency spectra. In this case we apply the function to smooth Fourier Amptlitude Spectra (FAS).
 
 # Installation
 parzenpy is available using pip and can be installed with:
