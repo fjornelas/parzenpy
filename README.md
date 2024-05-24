@@ -19,7 +19,7 @@ parzenpy is available using pip and can be installed with:
 
 A user can smooth a seismic signal using a the function apply_smoothing using a bandwidth of 1.5. Larger values will return greater smoothing
 
-`import parzenpy
+`from parzenpy.parzen_smooth import parzenpy
 smooth_fas = parzenpy.apply_smooth(freq, fft, fc, b=1.5, windowed_flag=True)`
 
 # Citation
