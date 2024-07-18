@@ -10,3 +10,5 @@ pyparsing
 pytest
 tomli
 xcrun
+Pygments
+jupyter-book
