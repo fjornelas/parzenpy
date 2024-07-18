@@ -1,0 +1,12 @@
+parzenpy
+numpy
+attrs
+coverage
+iniconfig
+packaging
+pluggy
+py
+pyparsing
+pytest
+tomli
+xcrun
