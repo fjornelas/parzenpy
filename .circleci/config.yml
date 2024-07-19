@@ -13,7 +13,7 @@ jobs:
           command: pip install -r requirements.txt
       - run:
           name: Run tests and collect coverage
-          command:|
+          command: |
             source venv/bin/activate
             cd tests
             coverage run --source=../hvsrprocpy -m pytest
