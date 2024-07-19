@@ -1,6 +1,11 @@
 # parzenpy
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11273315.svg)](https://doi.org/10.5281/zenodo.11273315)
+![pypi - version](https://img.shields.io/pypi/v/parzenpy)
+![GitHub License](https://img.shields.io/github/license/fjornelas/parzenpy)
+[![Report Issues!](https://img.shields.io/badge/Report%20Issues-Here-1abc9c.svg)](https://github.com/fjornelas/parzenpy/issues)
+[![Open Source?
+Yes!](https://img.shields.io/badge/Open%20Source-Yes-green.svg)](https://github.com/fjornelas/parzenpy)
 
 A python library that perform Parzen spectral smoothing using numpy vectorized operations very efficiently.
 
