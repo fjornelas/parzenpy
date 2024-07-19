@@ -1,6 +1,7 @@
 # parzenpy
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11273315.svg)](https://doi.org/10.5281/zenodo.11273315)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/fjornelas/parzenpy/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/fjornelas/parzenpy/tree/main)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/54d26dbfd8fb4a9d902081a8c7f74807)](https://app.codacy.com/gh/fjornelas/parzenpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![codecov](https://codecov.io/github/fjornelas/parzenpy/graph/badge.svg?token=7QATD07693)](https://codecov.io/github/fjornelas/parzenpy)
 ![pypi - version](https://img.shields.io/pypi/v/parzenpy)
