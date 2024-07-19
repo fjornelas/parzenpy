@@ -1,5 +1,7 @@
 # parzenpy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11273315.svg)](https://doi.org/10.5281/zenodo.11273315)
+
 A python library that perform Parzen spectral smoothing using numpy vectorized operations very efficiently.
 
 # Background
