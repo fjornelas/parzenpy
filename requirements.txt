@@ -1,5 +1,11 @@
-parzenpy
+Pygments
+jupyter-book
+matplotlib
 numpy
+pandas
+obspy
+scipy
+parzenpy
 attrs
 coverage
 iniconfig
@@ -10,5 +16,3 @@ pyparsing
 pytest
 tomli
 xcrun
-Pygments
-jupyter-book
