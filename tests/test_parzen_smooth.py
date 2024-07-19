@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from parzenpy import parzenpy
+from parzenpy.parzen_smooth import parzenpy
 
 @pytest.fixture
 def sample_data():
