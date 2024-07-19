@@ -1,9 +1,6 @@
 name: Example workflow for Codecov for parzenpy
 
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
   run:
