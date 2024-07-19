@@ -13,7 +13,10 @@ jobs:
           command: pip install -r requirements.txt
       - run:
           name: Run tests and collect coverage
-          command: pytest --cov app
+          command:|
+            source venv/bin/activate
+            cd tests
+            coverage run --source=../hvsrprocpy -m pytest
       - codecov/upload
 
 workflow:
